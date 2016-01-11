@@ -4,7 +4,7 @@
 
 **Description**. In this independent study we will reivew basic  concepts of linear algebra with a focus on statistical applications (linear regression and related methods). 
 
-**Textbook:** Matrix Algebra Useful for Statistics by Shayle R. Searle.
+**Textbook:** (Matrix Algebra Useful for Statistics by Shayle R. Searle)[http://www.amazon.com/Matrix-Algebra-Useful-Statistics-Shayle/dp/0470009616/ref=sr_1_1?s=books&ie=UTF8&qid=1452525779&sr=1-1&keywords=matrix+algebra+useful+for+statistics].
 
 **Content:** We will cover chapters 1-11, 14 and 15 of the textbook.
 
