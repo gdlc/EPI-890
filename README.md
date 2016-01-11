@@ -1,8 +1,6 @@
 ## Matrix Algebra Useful for Statistics
 
-
-** MSU, Spring, 2016**
-
+**MSU, Spring, 2016**
 
 **Instructor**: Gustavo de los Campos ( gustavoc@msu.edu )
 
