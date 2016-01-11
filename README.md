@@ -3,6 +3,7 @@
 
 ** MSU, Spring, 2016**
 
+
 **Instructor**: Gustavo de los Campos ( gustavoc@msu.edu )
 
 **Description**. In this independent study we will reivew basic  concepts of linear algebra with a focus on statistical applications (linear regression and related methods). 
