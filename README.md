@@ -1,9 +1,6 @@
-## Matrix Algebra Useful for Statistics
-
-**MSU, Spring, 2016**
+## Matrix Algebra Useful for Statistics (EPI-BST Spring, 2016)
 
 **Instructor**: Gustavo de los Campos ( gustavoc@msu.edu )
-
 
 **Description**. In this independent study we will reivew basic  concepts of linear algebra with a focus on statistical applications (linear regression and related methods). 
 
@@ -20,4 +17,8 @@
   
 **Day/Time**: We will meet every Monday at 3:00-3:30pm in room 637 (Fee Hall, 909 Fee Road, 6th floor, Room 637).
 
+
+## Content
+
+#### Chapter 1 ()
 
