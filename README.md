@@ -1,4 +1,4 @@
-## Matrix Algebra Useful for Statistics (EPI-BST Spring, 2016)
+## Matrix Algebra Useful for Statistics (EPI 489 Spring, 2016)
 
 **Instructor**: Gustavo de los Campos ( gustavoc@msu.edu )
 
