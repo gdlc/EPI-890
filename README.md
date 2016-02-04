@@ -31,7 +31,14 @@
 
 
 --------------------------------------------------------------------------------------------------------------------------------------
-**Chapter 3 (pages 32-53, Person in charge TBA,  02/08/2016)**
+**Chapter 3 (Special Matrices, pages 60-83)**
+
+HW
+  (1) show that (A'B)=B'A'
+  (2) Express colSums, colMeans, rowSums and rowMeans using matrix algebra
+  (3) Express scale(X,center=T,scale=F) using matrix algebra
+  (4) Show that if x'Ax is positive definite, then x'(A+I)x is also positive definite.
+
 
 
 --------------------------------------------------------------------------------------------------------------------
