@@ -34,7 +34,7 @@
 **Chapter 3 (Special Matrices, pages 60-83)**
 
 Homework
-  - show that (A'B)=B'A' 
+  - show that (AB)'=B'A' 
   - Express colSums, colMeans, rowSums and rowMeans using matrix algebra
   - Express scale(X,center=T,scale=F) using matrix algebra
   - Show that if x'Ax is positive definite, then x'(A+I)x is also positive definite.
@@ -42,7 +42,7 @@ Homework
 
 
 --------------------------------------------------------------------------------------------------------------------
-**Chapter  (Person in charge TBA, 02/15/2016)**
+**Chapter 4 (Determinants, 2/17/2016)**
 
 
 --------------------------------------------------------------------------------------------------------------------
