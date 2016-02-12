@@ -92,6 +92,11 @@ Homework
 **Special topics: Multivariate Normal Distribution (Person in charge TBA, 04/18/2016)**
 
 
+```R
+ x=rnorm(100)
+ y=x+rnorm(100)
+ fm=lm(y~x)
 
+```
 
 
