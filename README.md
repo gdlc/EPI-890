@@ -51,6 +51,11 @@ Homework
             - if A is lower-triangular, det(A)=? 
             - if A is singlular, det(A)=? 
             - if A'A=I, det(A)=?....
+
+
+
+
+
 --------------------------------------------------------------------------------------------------------------------
 **Chapter  (Person in charge TBA, 02/22/2016)**
 
