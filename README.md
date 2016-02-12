@@ -43,8 +43,9 @@ Homework
 
 --------------------------------------------------------------------------------------------------------------------
 **Chapter 4 (Determinants, 2/17/2016)**
-
-
+   - Additional read: https://en.wikipedia.org/wiki/Determinant
+   - HW: list all the properties that you know about determinants (use both the book and the above link). Examples of properties are
+   - det(AB)=?  if A is diagonal, det(A)=?, if A is lower-triangular, det(A)=? if A is singlular, det(A)=? if A'A=I, det(A)=?....
 --------------------------------------------------------------------------------------------------------------------
 **Chapter  (Person in charge TBA, 02/22/2016)**
 
