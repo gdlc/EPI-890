@@ -65,9 +65,13 @@ Topics to be discussed:
 --------------------------------------------------------------------------------------------------------------------
 **Chapter 6 (Rank, 02/29/2016)**
 
+HW: 
+  - solve problems:  1, 8 and 10.
+  - Discuss relationships between eigenvalues of symmetric matrices and rank, discuss relationship between positive definitness and rank.
+  
 
 --------------------------------------------------------------------------------------------------------------------
-**Chapter  (Person in charge TBA, 03/07/2016)**
+**Chapter  7 (Person in charge TBA, 03/07/2016)**
 
 
 --------------------------------------------------------------------------------------------------------------------
