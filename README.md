@@ -22,12 +22,12 @@
 ## Content
 
 --------------------------------------------------------------------------------------------------------------------
-**Chapter 1 & Chapter to up to page 32 (Person in charge TBA, 02/01/2016)**
+**Chapter 1 & Chapter to up to page 32 (02/01/2016)**
    - Probelms: Ch.2 problem 3 (solve the problem using R code); Chapter 2 problem 11; chapter 2, problem 6.
    - For discussion: dot notation and colSums/rowSums operators in R; Comprehensions in Julia.
    
 --------------------------------------------------------------------------------------------------------------------------------------
-**Chapter 2 (pages 32-53, Person in charge TBA,  02/01/2016)**
+**Chapter 2 (pages 32-53, 02/01/2016)**
 
 
 --------------------------------------------------------------------------------------------------------------------------------------
@@ -52,16 +52,18 @@ Homework
       - if A is singlular, det(A)=? 
       - if A'A=I, det(A)=?....
 
+--------------------------------------------------------------------------------------------------------------------
+**Chapter  5 (Determinants)**
 
-
-
+Topics to be discussed:
+  (i) Use of inverses (focus on solving systems of linear equations)
+  (ii) Definition of inverse
+  (iii) Relationship to determinants
+  (iv) Properties (page 130)
+  (v) inverses of positive definite matrices using cholesky and eigen decompositions.
 
 --------------------------------------------------------------------------------------------------------------------
-**Chapter  (Person in charge TBA, 02/22/2016)**
-
-
---------------------------------------------------------------------------------------------------------------------
-**Chapter  (Person in charge TBA, 02/29/2016)**
+**Chapter 6 (Rank, 02/29/2016)**
 
 
 --------------------------------------------------------------------------------------------------------------------
