@@ -55,12 +55,12 @@ Homework
 --------------------------------------------------------------------------------------------------------------------
 **Chapter  5 (Determinants)**
 
-Topics to be discussed:
-  (i) Use of inverses (focus on solving systems of linear equations)
-  (ii) Definition of inverse
-  (iii) Relationship to determinants
-  (iv) Properties (page 130)
-  (v) inverses of positive definite matrices using cholesky and eigen decompositions.
+Topics to be discussed: 
+  - Use of inverses (focus on solving systems of linear equations)
+  - Definition of inverse 
+  - Relationship to determinants
+  - Properties (page 130)
+  - Inverses of positive definite matrices using cholesky and eigen decompositions.
 
 --------------------------------------------------------------------------------------------------------------------
 **Chapter 6 (Rank, 02/29/2016)**
